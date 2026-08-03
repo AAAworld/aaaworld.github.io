@@ -1,2 +1,1 @@
-# aaaworld.github.io
-apps
+app-ads.txt
